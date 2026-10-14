@@ -1,0 +1,41 @@
+{
+  "name": "I Need Thumb Space",
+  "subtitle": "Development builds of I Need Thumb Space",
+  "description": "Private-development and preview builds of I Need Thumb Space for AltStore Classic.",
+  "iconURL": "https://apps.crelin.org/assets/icon.png",
+  "website": "https://crelin.org",
+  "tintColor": "#55DDF4",
+  "featuredApps": [
+    "org.crelin.ineedthumbspace"
+  ],
+  "apps": [
+    {
+      "name": "I Need Thumb Space",
+      "bundleIdentifier": "org.crelin.ineedthumbspace",
+      "developerName": "Lucy Fur",
+      "subtitle": "One-thumb space exploration, combat, and discovery.",
+      "localizedDescription": "Pilot a customizable ship through strange sectors, recover unusual modules, and build an archive of everything found between the stars.",
+      "iconURL": "https://apps.crelin.org/assets/icon.png",
+      "tintColor": "#55DDF4",
+      "category": "games",
+      "screenshots": [],
+      "versions": [
+        {
+          "version": "0.1.0",
+          "buildVersion": "1.1.0",
+          "date": "2026-10-14",
+          "localizedDescription": "Automated AltStore preview build.",
+          "downloadURL": "https://github.com/LucyFurry/i-need-thumb-space-releases/releases/download/altstore-v0.1.0/I-Need-Thumb-Space-AltStore.ipa",
+          "size": 48133363,
+          "sha256": "c619c35e4e3e77ac359e383066c919ed7d1b2aa37c056583e30bcda9166b0f39",
+          "minOSVersion": "15.0"
+        }
+      ],
+      "appPermissions": {
+        "entitlements": [],
+        "privacy": {}
+      }
+    }
+  ],
+  "news": []
+}
