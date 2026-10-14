@@ -21,6 +21,16 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.2.0",
+          "buildVersion": "1.2.0",
+          "date": "2026-10-14",
+          "localizedDescription": "Adds the ramping Cinder Torch, chaining Arc Repeater, and homing Gravekite Rack, plus reliable one-finger Shipyard scrolling, clearer phone layouts and tutorials, and audio and pause cleanup.",
+          "downloadURL": "https://github.com/LucyFurry/i-need-thumb-space-releases/releases/download/altstore-v0.2.0/I-Need-Thumb-Space-AltStore.ipa",
+          "size": 48229320,
+          "sha256": "f23bbb190d16a155898d23473236fec6a72ce93b5e0499cef50fe82447bea670",
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "0.1.2",
           "buildVersion": "1.1.2",
           "date": "2026-10-14",
