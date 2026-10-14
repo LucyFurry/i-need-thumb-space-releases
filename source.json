@@ -21,6 +21,16 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.1.1",
+          "buildVersion": "1.1.1",
+          "date": "2026-10-14",
+          "localizedDescription": "Automated AltStore preview build.",
+          "downloadURL": "https://github.com/LucyFurry/i-need-thumb-space-releases/releases/download/altstore-v0.1.1/I-Need-Thumb-Space-AltStore.ipa",
+          "size": 48130963,
+          "sha256": "c7a2adcc884f797b40dc13759d1290e033ed4b31040ae76ce4f2b85f29d0f17c",
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "0.1.0",
           "buildVersion": "1.1.0",
           "date": "2026-10-14",
