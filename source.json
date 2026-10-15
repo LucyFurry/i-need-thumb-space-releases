@@ -21,6 +21,16 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.3.0",
+          "buildVersion": "1.3.0",
+          "date": "2026-10-15",
+          "localizedDescription": "Adds escalating multi-module cache reveals, clearer recovered-module quality and tuning ranges, and phone-first loadout socket cards, plus honest Hardcore cargo warnings, long-name layout fixes, and reliable Starter Design saving.",
+          "downloadURL": "https://github.com/LucyFurry/i-need-thumb-space-releases/releases/download/altstore-v0.3.0/I-Need-Thumb-Space-AltStore.ipa",
+          "size": 48400900,
+          "sha256": "beceacbc9689309d2af47d220987259c5393261c2d1fa6de38b854e5a57ad736",
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "0.2.0",
           "buildVersion": "1.2.0",
           "date": "2026-10-14",
