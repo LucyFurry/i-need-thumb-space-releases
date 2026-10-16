@@ -21,6 +21,16 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.4.0",
+          "buildVersion": "1.4.0",
+          "date": "2026-10-16",
+          "localizedDescription": "Adds tractor-beam xenolife capture, a phone-first Module Vault with compact inventory trays and selected-item detail, durable Flight School graduation, scroll-safe Shipyard controls, and cleaner startup/transmission layouts.",
+          "downloadURL": "https://github.com/LucyFurry/i-need-thumb-space-releases/releases/download/altstore-v0.4.0/I-Need-Thumb-Space-AltStore.ipa",
+          "size": 48409846,
+          "sha256": "8dbfd6d42eec421e18be369e439b3024962748a693721f4feaac9fca14f80151",
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "0.3.0",
           "buildVersion": "1.3.0",
           "date": "2026-10-15",
