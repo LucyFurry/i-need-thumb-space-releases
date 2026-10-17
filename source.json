@@ -21,6 +21,16 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.5.0",
+          "buildVersion": "1.5.0",
+          "date": "2026-10-17",
+          "localizedDescription": "Adds a visual Bio Atlas with specimen silhouettes and collection progress, clearer field loot reveals with installed-gear comparisons and immediate installs, plus a compact five-slot loadout board and phone-first Module Vault cards.",
+          "downloadURL": "https://github.com/LucyFurry/i-need-thumb-space-releases/releases/download/altstore-v0.5.0/I-Need-Thumb-Space-AltStore.ipa",
+          "size": 48437124,
+          "sha256": "2c2d86047e13ec639f4d29b816f24f46b1b030715ca90e1523d7c5d778723a46",
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "0.4.0",
           "buildVersion": "1.4.0",
           "date": "2026-10-16",
