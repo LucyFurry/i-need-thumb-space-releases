@@ -21,6 +21,16 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.6.0",
+          "buildVersion": "1.6.0",
+          "date": "2026-10-18",
+          "localizedDescription": "Deepens mining, salvaging, hacking, and Bio Tractor scanning with stronger interaction feedback, NICE / GREAT / PERFECT / CRITICAL chains, escalating timing and combo challenges, dangerous signal spikes, rare flawless rewards, and three strange new Wandering Well destinations.",
+          "downloadURL": "https://github.com/LucyFurry/i-need-thumb-space-releases/releases/download/altstore-v0.6.0/I-Need-Thumb-Space-AltStore.ipa",
+          "size": 48535898,
+          "sha256": "4c3453ec6ad66efaac051609e4f17da6ce3c36c83a4c9c2f55bc79fb16f0daa4",
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "0.5.0",
           "buildVersion": "1.5.0",
           "date": "2026-10-17",
