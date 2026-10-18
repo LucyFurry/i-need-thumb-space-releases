@@ -21,6 +21,16 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.7.0",
+          "buildVersion": "1.7.0",
+          "date": "2026-10-18",
+          "localizedDescription": "Turns discovery and loot into a richer hunt with expanded Archive collections, stranger pockets and secrets, clearer phone navigation and flight feedback, cinematic recovered-module reveals, readable gear tradeoffs, and unmistakable Shipyard fit confirmation.",
+          "downloadURL": "https://github.com/LucyFurry/i-need-thumb-space-releases/releases/download/altstore-v0.7.0/I-Need-Thumb-Space-AltStore.ipa",
+          "size": 48593790,
+          "sha256": "f55552b590dced145fad6ad836d4fa7238997dc6d1a62dab4802eb6178db81ac",
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "0.6.0",
           "buildVersion": "1.6.0",
           "date": "2026-10-18",
