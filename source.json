@@ -21,6 +21,16 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.7.1",
+          "buildVersion": "1.7.1",
+          "date": "2026-10-18",
+          "localizedDescription": "Keeps tutorial, recovery, discovery, and guidance cards out of active minigames; wraps long flight notices into phone-safe cards; keeps timing feedback clear of the ship and interaction panels; and tightens compact-screen text plus Shipyard modal safety.",
+          "downloadURL": "https://github.com/LucyFurry/i-need-thumb-space-releases/releases/download/altstore-v0.7.1/I-Need-Thumb-Space-AltStore.ipa",
+          "size": 48604990,
+          "sha256": "2adbdc1a86c26fec4cb23f3c0eba5fe3ca73550cb4901a65d9b534a6c1ded224",
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "0.7.0",
           "buildVersion": "1.7.0",
           "date": "2026-10-18",
