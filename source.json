@@ -21,6 +21,16 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.9.0",
+          "buildVersion": "1.9.0",
+          "date": "2026-10-19",
+          "localizedDescription": "Adds distinct illustrated module art across field recoveries, the Expedition Rack, and Shipyard Vault; introduces a clear preview-and-confirm socket swap with exact displaced-item routing, comparisons, motion, sound, and haptics; fixes the active-vessel preview overlap on large iPhones; and strengthens phone, Duo, landscape, and iPad layout coverage.",
+          "downloadURL": "https://github.com/LucyFurry/i-need-thumb-space-releases/releases/download/altstore-v0.9.0/I-Need-Thumb-Space-AltStore.ipa",
+          "size": 48688907,
+          "sha256": "a12ebe48ff38607e8695abb5c2664ac64bf29016f4b7b7272d1d73bccf8b916c",
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "0.8.0",
           "buildVersion": "1.8.0",
           "date": "2026-10-19",
