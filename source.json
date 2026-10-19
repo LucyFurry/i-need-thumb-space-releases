@@ -21,6 +21,16 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.8.0",
+          "buildVersion": "1.8.0",
+          "date": "2026-10-19",
+          "localizedDescription": "Adds the 4x4 Expedition Rack for field loadout decisions; gives recovered modules clear Equip, Pack, and Send choices; safely preserves full-rack overflow in the Vault; improves small-phone recovery and pause layouts; and hardens exact-item saves, swaps, scrapping, resume, and Hardcore loss behavior.",
+          "downloadURL": "https://github.com/LucyFurry/i-need-thumb-space-releases/releases/download/altstore-v0.8.0/I-Need-Thumb-Space-AltStore.ipa",
+          "size": 48661110,
+          "sha256": "da9bfd93df78b2d5f22064a279e735d1f5792543b6dfda63b11993289545bb4a",
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "0.7.1",
           "buildVersion": "1.7.1",
           "date": "2026-10-18",
