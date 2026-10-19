@@ -21,6 +21,16 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.10.0",
+          "buildVersion": "1.10.0",
+          "date": "2026-10-19",
+          "localizedDescription": "Adds the Starchart for choosing and revisiting culture-specific systems; expands Cinderwake into an authored ten-sector first arc ending in a boss-locked Shipyard; introduces regional loot pools, undiscovered recovery silhouettes, route mastery, system unlocks, and persistent per-system progress; and strengthens save, cloud-merge, iPhone, Duo, landscape, and iPad coverage.",
+          "downloadURL": "https://github.com/LucyFurry/i-need-thumb-space-releases/releases/download/altstore-v0.10.0/I-Need-Thumb-Space-AltStore.ipa",
+          "size": 48737341,
+          "sha256": "2b27b4d557b6457292d59c622924cbe8e78ea510836fafcc27117d42404bd4f5",
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "0.9.0",
           "buildVersion": "1.9.0",
           "date": "2026-10-19",
