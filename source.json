@@ -21,6 +21,16 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.10.1",
+          "buildVersion": "1.10.1",
+          "date": "2026-10-20",
+          "localizedDescription": "Cinderwake Director's Cut gives all ten sectors distinct landmarks, named contacts, encounter formations, hidden signals, replay intel, and authored first-clear rewards; adds explicit choose-one field armories and a two-phase Crownfall finale with a single relief-Shipyard endpoint; preserves route clears, reward claims, and secrets through checkpoints and cloud merges; and expands portrait, Duo, landscape, iPad, and full-suite coverage.",
+          "downloadURL": "https://github.com/LucyFurry/i-need-thumb-space-releases/releases/download/altstore-v0.10.1/I-Need-Thumb-Space-AltStore.ipa",
+          "size": 48797426,
+          "sha256": "20d13b72bc4689c9f2450a3762399bd9efacad044e694c1aa22f2e6c22116831",
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "0.10.0",
           "buildVersion": "1.10.0",
           "date": "2026-10-19",
