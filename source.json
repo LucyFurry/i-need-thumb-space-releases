@@ -21,6 +21,16 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.11.0",
+          "buildVersion": "1.11.0",
+          "date": "2026-10-21",
+          "localizedDescription": "Crownfall now has readable sweep and open-lane phases plus a physical triple-relic cache that must be secured before extraction; five permanent Cinderwake hunts can be tracked directly from discovered modules in the Archive; Exotic Circuits and Anomalous Mutations add real rule-changing combat and exploration powers with clearer phone comparisons; and expanded resume, Hardcore, narrow-phone, Duo, landscape, and full-suite coverage protects the complete hunt-and-build loop.",
+          "downloadURL": "https://github.com/LucyFurry/i-need-thumb-space-releases/releases/download/altstore-v0.11.0/I-Need-Thumb-Space-AltStore.ipa",
+          "size": 48844854,
+          "sha256": "d2699d5875e65867344853b40421525b6b7b5902054e9026f9acc648b7d6de62",
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "0.10.1",
           "buildVersion": "1.10.1",
           "date": "2026-10-20",
