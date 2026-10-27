@@ -21,6 +21,16 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.12.0",
+          "buildVersion": "1.12.0",
+          "date": "2026-10-27",
+          "localizedDescription": "Gravework now guarantees a permanent Ember Scatter recovery before the first gauntlet, giving the opening expedition a clear activity-to-loot-to-equip payoff. Phone HUD, Pause contracts, recovered-module comparisons, tutorial focus, Rack and Vault markers, Archive dossiers, and Trophy names are clearer across iPhone, Duo, landscape, and iPad. Tutorial migration, Wraith exhaustion, tablet interruptions, checkpoint resume, and reward duplication now have expanded regression coverage.",
+          "downloadURL": "https://github.com/LucyFurry/i-need-thumb-space-releases/releases/download/altstore-v0.12.0/I-Need-Thumb-Space-AltStore.ipa",
+          "size": 48856428,
+          "sha256": "7774d42a7bd3d73c0353ba78fe8e6928ed1a20b8148a1d22d5d0bcb9b5d4d187",
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "0.11.0",
           "buildVersion": "1.11.0",
           "date": "2026-10-21",
