@@ -21,6 +21,16 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.13.1",
+          "buildVersion": "1.13.1",
+          "date": "2026-10-31",
+          "localizedDescription": "Fixes the iPhone first-launch keyboard handoff, repeated Pause training input, and the locked exit lesson. Expedition Cargo wording now makes recovered-module choices clearer, hostile target cards use lore-first identities, and additional phone-layout checks protect the tutorial, pause menu, recovery choices, and cargo screen.",
+          "downloadURL": "https://github.com/LucyFurry/i-need-thumb-space-releases/releases/download/altstore-v0.13.1/I-Need-Thumb-Space-AltStore.ipa",
+          "size": 48870140,
+          "sha256": "875b086ed9509b2473049687c7293ba881b98b4d1a61dd8b63487c5f1b010bbd",
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "0.13.0",
           "buildVersion": "1.13.0",
           "date": "2026-10-31",
