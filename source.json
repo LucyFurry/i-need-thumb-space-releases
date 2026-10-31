@@ -21,6 +21,16 @@
       "screenshots": [],
       "versions": [
         {
+          "version": "0.13.0",
+          "buildVersion": "1.13.0",
+          "date": "2026-10-31",
+          "localizedDescription": "Flight School targeting now teaches the intended action without accidentally firing a chassis power. Recovered modules arrive less often, with quieter mission banners and more meaningful authored rewards. Mining, salvage, hacking, and scanning holds run more smoothly, while Shipyard lists preserve their position and resist accidental taps during a swipe. Unequipped recovered modules now have a clear two-step salvage action with an exact bank receipt, sound, and haptic confirmation. Expanded regression coverage protects tutorial flow, loot cadence, hold interactions, Shipyard scrolling, and dismantling.",
+          "downloadURL": "https://github.com/LucyFurry/i-need-thumb-space-releases/releases/download/altstore-v0.13.0/I-Need-Thumb-Space-AltStore.ipa",
+          "size": 48862971,
+          "sha256": "d2ee69c6b8adcdfa6624da2baa590e6419cc562a506e959db05089c0f23f3ee4",
+          "minOSVersion": "15.0"
+        },
+        {
           "version": "0.12.0",
           "buildVersion": "1.12.0",
           "date": "2026-10-27",
