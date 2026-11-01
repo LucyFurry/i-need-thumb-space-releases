@@ -1,21 +1,21 @@
 {
-  "name": "I Need Thumb Space",
-  "subtitle": "Development builds of I Need Thumb Space",
-  "description": "Private-development and preview builds of I Need Thumb Space for AltStore Classic.",
-  "iconURL": "https://apps.crelin.org/assets/icon.png",
-  "website": "https://crelin.org",
+  "name": "Gripwake",
+  "subtitle": "Development builds of Gripwake",
+  "description": "Preview builds of Gripwake for AltStore Classic.",
+  "iconURL": "https://apps.gripwake.com/assets/icon.png",
+  "website": "https://gripwake.com",
   "tintColor": "#55DDF4",
   "featuredApps": [
     "org.crelin.ineedthumbspace"
   ],
   "apps": [
     {
-      "name": "I Need Thumb Space",
+      "name": "Gripwake",
       "bundleIdentifier": "org.crelin.ineedthumbspace",
       "developerName": "Lucy Fur",
       "subtitle": "One-thumb space exploration, combat, and discovery.",
       "localizedDescription": "Pilot a customizable ship through strange sectors, recover unusual modules, and build an archive of everything found between the stars.",
-      "iconURL": "https://apps.crelin.org/assets/icon.png",
+      "iconURL": "https://apps.gripwake.com/assets/icon.png",
       "tintColor": "#55DDF4",
       "category": "games",
       "screenshots": [],
